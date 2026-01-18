@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Boram! 😊
+
+I’m an MSBA student at UC Irvine (Class of 2026) pursuing entry-level Data Analyst roles. I’m especially interested in using data to understand consumers/users and support better decisions across product, marketing, and operations.
+
+### Tools
+- Python (pandas)
+- SQL
+- Excel
+- Data Visualization (Tableau)
 
 <!--
 **boramgaudet/boramgaudet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
