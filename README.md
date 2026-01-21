@@ -6,7 +6,7 @@ I’m an MSBA student at UC Irvine (Class of 2026) pursuing entry-level Data Ana
 - Python (pandas)
 - SQL
 - Excel
-- Data Visualization (Tableau)
+- Data Visualization
 
 <!--
 **boramgaudet/boramgaudet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
