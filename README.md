@@ -1,6 +1,6 @@
 ## Hi, I'm Boram! 😊
 
-I’m an MSBA student at UC Irvine (Class of 2026) pursuing entry-level Data Analyst roles. I’m interested in analytics roles that use data to understand performance, behavior, and trends, and translate those insights into real business decisions across functions like sales, marketing, product, operations, and strategy.
+I’m an MSBA student at UC Irvine (Class of 2026) pursuing entry-level Data Analyst roles. I’m especially interested in understanding customer behavior and performance drivers, which is why sales, marketing, and product analytics resonate with me.
 
 ### Tools
 - Python (pandas)
