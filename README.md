@@ -7,7 +7,7 @@ Before grad school, I worked in retail operations in the luxury watch industry, 
 Right now I'm looking for entry-level data analyst, BI analyst, or consumer insights roles at consumer-facing companies.
 
 ## What I bring
-- A translator's mindset — comfortable bridging technical analysis and business storytelling
+- A translator's mindset; comfortable bridging technical analysis and business storytelling
 - Hands-on retail experience that shapes how I think about customer behavior
 - A habit of asking "what would a stakeholder actually do with this?" before diving into any analysis
 
